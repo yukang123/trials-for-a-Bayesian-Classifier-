@@ -52,8 +52,8 @@ plot(x_all,sn_all,'g-','LineWidth',2);
 hold on;
 plot(x_all,sp_all,'b-','LineWidth',2);
 legend('accuracy','sn','sp');
-%xlabel('p(w1)');ylabel('评价指标');
-xlabel('\lambda12');ylabel('评价指标');
+%xlabel('p(w1)');ylabel('脝脌录脹脰赂卤锚');
+xlabel('\lambda12');ylabel('脝脌录脹脰赂卤锚');
 hold off
 
 
